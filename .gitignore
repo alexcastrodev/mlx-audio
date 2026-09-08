@@ -47,3 +47,6 @@ output/
 claude.md
 .claude/site/
 .generated/legacy-docs-generated/
+
+# lekito
+voice_references/
